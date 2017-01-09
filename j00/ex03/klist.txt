@@ -1,0 +1,6 @@
+Credentials cache: API:16062
+        Principal: mulzega@42.FR
+
+  Issued                Expires               Principal
+Oct 13 16:13:55 2015  Oct 14 02:13:55 2015  krbtgt/42.FR@42.FR
+Oct 13 16:31:38 2015  Oct 14 02:13:55 2015  host/vogsphere-frontend-normal-1.42.fr@42.FR
